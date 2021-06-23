@@ -19,4 +19,5 @@ $sum = new Func("sum", function($numArray = null) use (&$numLoops) {
   }
   return $arrayTotal;
 });
+?>
 
